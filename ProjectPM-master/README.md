@@ -1,1 +1,1 @@
-Projeto desenvolvido PHP/Laravel - Banco de Dados MySQL - Arquivos CSS & HTML.
+ Projeto desenvolvido  em PHP/Laravel - Banco de Dados MySQL - Aquivos CCS & HTML.
